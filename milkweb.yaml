@@ -1,8 +1,12 @@
 ---
 :home_title  : "ongaeshi's Milkode"
 :home_icon   : "http://www.gravatar.com/avatar/6377451175704e2d367ce508bffc1fa5"
+:home_font_size : "70%"
 
 :header_title: "ongaeshi"
 :header_icon : "http://www.gravatar.com/avatar/6377451175704e2d367ce508bffc1fa5"
 
+:favicon: "/images/favicon.ico"
+
 :display_about_milkode: true
+:hide_update_button: true
